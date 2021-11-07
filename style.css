@@ -64,6 +64,7 @@ button{
         left: 0;
     }
 }
+
 /*------- H1 Text (HomePage)-------- */
 h1{
     font-size: 100px;
@@ -410,6 +411,42 @@ ul li ul li a{
 
 }
 
+/*------------------------------- ArcadeArea Page --------------------------------- */
+.ArcadeDescription{
+    width: 1500;
+    text-align: left;
+    margin: 0 auto;
+    
+}
+.MiniScreenshot{
+    text-align: center;
+}
+
+/*------------------------------- Nano-Aggresion Page --------------------------------- */
+.NanoDescription{
+    width: 1500;
+    text-align: left;
+    margin: 0 auto;
+    
+}
+
+.nanoVideo{
+    width: 32%;
+    height: 30%;
+    
+}
+
+/*------------------------------- Shadow Arena Page --------------------------------- */
+.ShadowDescription{
+    width: 1500;
+    text-align: left;
+    margin: 0 auto;
+    
+}
+
+
+
+
 /* ------------------------------ Casino Game Page -------------------------------- */
 .CasinoDescription{
     color: white;
@@ -432,6 +469,19 @@ ul li ul li a{
 }
 
 /* ------------------------------ Other Projects Page -------------------------------- */
+.float-left-child{
+    display: inline-block;
+    width: 800px;
+    height: 85vh;
+    border-radius: 25px;
+    opacity: 0.5; 
+    margin:0 20;
+    background: linear-gradient(#5bcefc,#83c3f7, #67c8da );   
+}
+
+.gameDescriptions{
+    text-align: center;
+}
 
 
 /* ------------------------------ Resume Page -------------------------------- */
